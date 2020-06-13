@@ -4,12 +4,12 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1 className="lg-font-size-30-px">
+    <div className="App height-100-vh displayFlex alignItemsCenter justifyContentCentre purple-background white-color">
+      <div className="">
+        <h1 className="lg-font-size-50-px">
           Dalys Media Comming Soon ...
         </h1>
-      </header>
+      </div>
     </div>
   );
 }
