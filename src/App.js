@@ -7,7 +7,7 @@ function App() {
     <div className="App height-100-vh displayFlex alignItemsCenter justifyContentCentre purple-background white-color">
       <div className="">
         <h1 className="lg-font-size-50-px">
-          Dalys Media Comming Soon ...
+          Dalys Media Comming Soon 123 ...
         </h1>
       </div>
     </div>
